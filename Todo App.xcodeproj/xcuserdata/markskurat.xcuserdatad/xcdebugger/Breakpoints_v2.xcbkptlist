@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FF8BC6EC-DAEB-42A8-BB8B-FF1ED6633F35"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F319D278-4023-4098-BB5E-92D534C29AEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Todo App/Theme/ThemeSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ThemeSettings"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F319D278-4023-4098-BB5E-92D534C29AEE - ce1d6dc5451650d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todo_App.ThemeSettings.deinit"
+                  moduleName = "Todo App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markskurat/Desktop/untitled%20folder/Todo%20App/Todo%20App/Theme/ThemeSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F319D278-4023-4098-BB5E-92D534C29AEE - 6967fb498d0401e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todo_App.ThemeSettings.__deallocating_deinit"
+                  moduleName = "Todo App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markskurat/Desktop/untitled%20folder/Todo%20App/Todo%20App/Theme/ThemeSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
